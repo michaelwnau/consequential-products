@@ -1,5 +1,6 @@
 # consequential-products
 Experiments with generative AI applied to defense industry problem statements.
+
 © 2024, Michael Nau. All rights reserved. Unauthorized reproduction, distribution, or use of this material is prohibited.
 
 ## Mindflayer: Analyzing Scientific Articles with OCR and Multimodal Models
