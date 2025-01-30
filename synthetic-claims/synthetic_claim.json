@@ -1,0 +1,91 @@
+{
+    "veteran_info": {
+        "name": "Cassandra Young",
+        "ssn": "723-37-4516",
+        "dob": [
+            "1975-08-17",
+            "1983-03-11"
+        ],
+        "phone": "001-809-333-0223x396",
+        "email": "floreskristi@example.org",
+        "address": "354 Holly Motorway Apt. 140\nPort Christopher, PW 53626"
+    },
+    "claim_type": "FDC",
+    "homeless_status": "No",
+    "exposure_info": {
+        "toxic_exposures": [],
+        "dates": [
+            "1971-02-13",
+            "1972-10-13"
+        ]
+    },
+    "disabilities": [
+        {
+            "condition": "PTSD",
+            "service_connection": "Direct",
+            "date_of_onset": [
+                "1971-11-25",
+                "1972-09-18"
+            ]
+        },
+        {
+            "condition": "Diabetes",
+            "service_connection": "Secondary",
+            "date_of_onset": [
+                "1972-05-07",
+                "1972-11-06"
+            ]
+        },
+        {
+            "condition": "PTSD",
+            "service_connection": "Direct",
+            "date_of_onset": [
+                "1972-02-29",
+                "1972-10-18"
+            ]
+        }
+    ],
+    "additional_claims": [
+        {
+            "condition": "Back Injury",
+            "date_of_onset": [
+                "1971-10-06",
+                "1972-07-07"
+            ]
+        },
+        {
+            "condition": "Back Injury",
+            "date_of_onset": [
+                "1972-01-21",
+                "1972-09-20"
+            ]
+        },
+        {
+            "condition": "Lung Disease",
+            "date_of_onset": [
+                "1972-03-18",
+                "1972-10-31"
+            ]
+        }
+    ],
+    "service_info": {
+        "branch": "Marines",
+        "service_dates": {
+            "start": "1971-01-31",
+            "end": "1972-11-21"
+        },
+        "combat_zone": "No"
+    },
+    "financial_info": {
+        "receives_military_retirement": "Yes",
+        "direct_deposit": {
+            "bank": "Williams, Young and Roberts",
+            "account_type": "Checking",
+            "account_number": "JLJS56637870003514"
+        }
+    },
+    "certification": {
+        "signed": true,
+        "date_signed": "2025-01-06"
+    }
+}
