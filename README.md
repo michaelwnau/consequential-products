@@ -10,4 +10,7 @@ Market research and data analysis efforts for AFWERX 24.7 Open Topic SBIR. The a
 ## Synthetic Claims
 A series of notebooks that generate benefits/disability claims data based on VA Form 21-526EZ for zCore Group's NWQ project (ongoing). Raymond Gonzalez, research partner.
 
+## Kaisha Ningen
+Another company RAG (WIP). The first notebook parses and cleans meetings transcripts (from Supernormal but any transcription content can be used). Tokenizer included. Qdrant or Chroma can be used.
+
 © 2025, Michael Nau. All rights reserved. Unauthorized reproduction, distribution, or use of this material is prohibited.
